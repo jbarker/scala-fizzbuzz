@@ -68,12 +68,16 @@ Development
 Developed with:
 
 * [Scala](http://www.scala-lang.org/) 2.9.2
-* [sbt](https://github.com/harrah/xsbt/wiki) 0.11.2
+* [sbt](http://www.scala-sbt.org/) 0.11.3
 * [JUnit](http://junit.org/) 4.10
 
 
 Release History
 ---------------
+
+v0.9.1 - 13 May 2012
+
+* Updated sbt due to scala-sbt.org replacing scala-tools.org.
 
 v0.9 - 05 May 2012
 
