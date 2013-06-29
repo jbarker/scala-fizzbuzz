@@ -1,9 +1,9 @@
 name := "scala-fizzbuzz"
 
-version := "0.9.4"
+version := "0.9.5"
 
 // http://www.scala-lang.org/
-scalaVersion := "2.10.1"
+scalaVersion := "2.10.2"
 
 /* https://github.com/KentBeck/junit */
 /* https://github.com/szeiger/junit-interface/ */
