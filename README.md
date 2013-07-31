@@ -68,12 +68,16 @@ Development
 Developed with:
 
 * [Scala](http://www.scala-lang.org/) 2.10.2
-* [sbt](http://www.scala-sbt.org/) 0.12.3
+* [sbt](http://www.scala-sbt.org/) 0.12.4
 * [JUnit](http://junit.org/) 4.11
 
 
 Release History
 ---------------
+
+0.9.6 - 31 July 2013
+
+* Upgraded dependencies.
 
 0.9.5 - 29 June 2013
 
