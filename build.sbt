@@ -1,6 +1,6 @@
 name := "scala-fizzbuzz"
 
-version := "0.9.7"
+version := "0.9.8"
 
 // http://www.scala-lang.org/
 scalaVersion := "2.10.3"
