@@ -2,8 +2,10 @@ Scala FizzBuzz
 ==============
 
 A version of the
-[FizzBuzz]( http://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
+[FizzBuzz](http://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 program written in Scala.
+
+[![Build Status](https://travis-ci.org/jbarker/scala-fizzbuzz.png?branch=master)](https://travis-ci.org/jbarker/scala-fizzbuzz)
 
 
 Highlights
